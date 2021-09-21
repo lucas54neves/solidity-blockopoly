@@ -1,0 +1,11 @@
+{
+  "name": "solidity-blockopoly",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "repository": "https://github.com/lucas54neves/solidity-blockopoly.git",
+  "author": "Lucas Neves <lucas54neves@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "truffle": "^5.4.10"
+  }
+}
